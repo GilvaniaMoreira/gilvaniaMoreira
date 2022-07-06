@@ -1,6 +1,7 @@
 ## Olá! eu sou a Gilvânia Moreira.
 
-- 🌱 Estudando Node.js
+- 👩🏻‍💻 Estudando Desenvolvimento de software na UniAteneu em Fortaleza - Ce 🇧🇷
+- 📚 Aprendendo sobre Testes automatizados na Dell Leads
 - 😄 Pronome: ela/dela
 
 <div align="center">
