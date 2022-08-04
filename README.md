@@ -1,7 +1,7 @@
 ## Olá! eu sou a Gilvânia Moreira.
 
 - 👩🏻‍💻 Estudando Desenvolvimento de software na UniAteneu em Fortaleza - Ce 🇧🇷
-- 📚 Aprofundando meus conhecimentos em Python e JavaScript
+- 📚 Aprofundando meus conhecimentos em HTML, CSS e JavaScript
 - 😄 Pronome: ela/dela
 
 <div align="center">
