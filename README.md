@@ -1,8 +1,5 @@
-## Olá! eu sou a Gilvânia Moreira.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c45b7c&size=30&width=1000&lines=Hi!+My+name+is+Gilvânia+Moreira+🌟;Brazilian+in+love+with+technology;+I'm+studying+software+development;Make+yourself+at+home!+😊)](https://git.io/typing-svg)
 
-- 👩🏻‍💻 Estudando Desenvolvimento de software na UniAteneu em Fortaleza - Ce 🇧🇷
-- 📚 Aprofundando meus conhecimentos em desenvolvimento full stack.
-- 😄 Pronome: ela/dela
 
 <div align="center">
   <a href="https://github.com/GilvaniaMoreira">
