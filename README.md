@@ -3,7 +3,7 @@
 Sou desenvolvedora **Full Stack** apaixonada por tecnologia e por resolver problemas com código.  
 Atualmente estou focada em fortalecer minhas habilidades em **Java**, **Spring Boot** e **arquiteturas backend escaláveis**.  
 
-💡 Tenho experiência sólida em **Python**, **TypeScript**, **React** e **NestJS**, mas estou me desafiando a construir novos projetos no ecossistema Java.
+💡 Tenho experiência sólida em **Python**, **TypeScript**, **React** e **NestJS**
 
 ---
 
