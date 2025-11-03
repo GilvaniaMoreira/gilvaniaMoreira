@@ -1,7 +1,6 @@
 # 👋 Oi, eu sou a Gilvânia Moreira!
 
-Sou desenvolvedora **Full Stack** apaixonada por tecnologia e por resolver problemas com código.  
-Atualmente estou focada em fortalecer minhas habilidades em **Java**, **Spring Boot** e **arquiteturas backend escaláveis**.  
+Sou desenvolvedora apaixonada por tecnologia e por resolver problemas com código.  
 
 💡 Tenho experiência sólida em **Python**, **TypeScript**, **React** e **NestJS**
 
