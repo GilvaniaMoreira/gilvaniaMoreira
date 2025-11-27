@@ -1,6 +1,6 @@
 # 👋 Oi, eu sou a Gilvânia Moreira!
 
-Sou desenvolvedora de software focada em **backend e APIs**, com experiência em **aplicações web full stack** utilizando **Python, Node.js, Golang e React**.  
+- Sou desenvolvedora de software focada em **backend e APIs**, com experiência em **aplicações web full stack** utilizando **Python, Node.js, Golang e React**.  
 Gosto de trabalhar em times ágeis, escrever código limpo e construir soluções que realmente resolvem problemas de negócio.
 ---
 
