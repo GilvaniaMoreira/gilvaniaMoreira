@@ -1,18 +1,27 @@
 # 👋 Oi, eu sou a Gilvânia Moreira!
 
-Sou desenvolvedora apaixonada por tecnologia e por resolver problemas com código.  
-
-💡 Tenho experiência sólida em **Python**, **TypeScript**, **React** e **NestJS**
-
+Sou desenvolvedora de software focada em **backend e APIs**, com experiência em **aplicações web full stack** utilizando **Python, Node.js, Golang e React**.  
+Gosto de trabalhar em times ágeis, escrever código limpo e construir soluções que realmente resolvem problemas de negócio.
 ---
 
-## 🚀 Tech Stack
+## 🛠 Tech Stack
+**Linguagens:**  
+- Python · JavaScript · TypeScript · Golang
 
-**Linguagens:** Java · Python · TypeScript · JavaScript  
-**Frontend:** React · Redux · Styled Components · Testing Library  
-**Backend:** Spring Boot · NestJS · Flask · Django Rest  
-**Banco de dados:** PostgreSQL · MySQL · MongoDB  
-**Outros:** Docker · Git · Linux
+**Backend / APIs:**  
+- FastAPI, Flask  
+- Node.js (Express / etc.)  
+- Swagger / OpenAPI
+
+**Frontend:**  
+- React, Vite, Next.js  
+- Bootstrap
+
+**Banco de dados:**  
+- MySQL, PostgreSQL, MongoDB, Firestore
+
+**DevOps e ferramentas:**  
+- Docker · Git/GitHub · CI/CD · Azure 
 
 ---
 
